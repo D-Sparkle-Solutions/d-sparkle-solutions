@@ -48,7 +48,7 @@ D-Sparkle Solutions is a premier cleaning service provider offering comprehensiv
 For cleaning service inquiries:
 
 - Phone: +44 7776 722 059
-- Email: emailsample@email.com
+- Email: <support@dsparklesolutions.co.uk>
 - Address: 45 Kirkton Road, Cambuslang, Glasgow, G72 8LF, Scotland
 
 ## Business Hours

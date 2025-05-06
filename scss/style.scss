@@ -1,0 +1,88 @@
+// Mobile Optimization
+@media (max-width: 768px) {
+  .hero-wrap {
+    .slider-text {
+      h1 {
+        font-size: 2rem;
+      }
+      h2.subheading {
+        font-size: 1.2rem;
+      }
+    }
+  }
+
+  .navbar-brand {
+    img {
+      max-width: 120px;
+    }
+    span {
+      font-size: 1rem;
+    }
+  }
+
+  .block-7 {
+    margin-bottom: 2rem;
+  }
+
+  .pricing-text {
+    li {
+      font-size: 0.9rem;
+    }
+  }
+
+  .form-group {
+    margin-bottom: 1rem;
+  }
+
+  .ftco-animate {
+    margin-bottom: 2rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .hero-wrap {
+    .slider-text {
+      h1 {
+        font-size: 1.8rem;
+      }
+      h2.subheading {
+        font-size: 1rem;
+      }
+    }
+  }
+
+  .btn {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+
+  .navbar-brand {
+    img {
+      max-width: 100px;
+    }
+  }
+}
+
+// Image Optimization
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+// Form Optimization
+.form-control {
+  height: auto;
+  padding: 0.75rem;
+  font-size: 1rem;
+}
+
+// Touch Target Optimization
+.btn,
+.nav-link,
+a {
+  min-height: 44px;
+  min-width: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}

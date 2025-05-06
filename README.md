@@ -1,89 +1,64 @@
-# D-Sparkle Solutions
+# D-Sparkle Solutions - Professional Cleaning Services
 
-![D-Sparkle Solutions Logo](assets/logo.png)
+![D-Sparkle Solutions Logo](https://firebasestorage.googleapis.com/v0/b/coast-craft.appspot.
+com/o/logo.png?alt=media&token=23fbe83a-3cfe-4d41-b9b2-3081c03a0552)
 
-## About Us
+## Overview
 
-D-Sparkle Solutions is a forward-thinking technology company dedicated to delivering innovative software solutions that empower businesses to achieve their digital transformation goals. We specialize in creating cutting-edge applications that combine technical excellence with user-centric design.
+D-Sparkle Solutions is a premier cleaning service provider offering comprehensive residential and commercial cleaning solutions. Our website showcases our professional cleaning services, commitment to quality, and dedication to customer satisfaction.
 
-## Our Services
+## Features
 
-- Web Development
-- Website Design
-- Frontend Development
-- UI/UX Design
-- Website Maintenance
-- Responsive Web Design
-- Website Optimization
+- Responsive design for optimal viewing on all devices
+- Service showcase with detailed cleaning packages
+- Online booking and appointment scheduling
+- Customer testimonials and portfolio
+- Contact forms for service inquiries
+- Interactive pricing plans
+- Social media integration
+
+## Services Offered
+
+- Residential Cleaning
+- Commercial Cleaning
+- Office Cleaning
+- Window Cleaning
+- Carpet Cleaning
+- Pool Cleaning
+- Kitchen Cleaning
+- Garden Maintenance
 
 ## Technology Stack
 
-- Frontend: HTML5, CSS3, JavaScript
-- Design Tools: Figma, Adobe XD
-- Version Control: Git
-- Development Tools: VS Code, Chrome DevTools
-- Performance Optimization Tools
-- Cross-browser Testing Tools
+- HTML5
+- CSS3/SCSS
+- JavaScript
+- Bootstrap 4
+- jQuery
+- Font Awesome
+- Google Maps Integration
 
 ## Getting Started
 
-### Prerequisites
-
-- A modern web browser (Chrome, Firefox, Safari, or Edge)
-- Git
-- A code editor (VS Code recommended)
-
-### Installation
-
 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/d-sparkle-solutions.git
-```
-
-2. Open the project in your code editor
-
-```bash
-cd d-sparkle-solutions
-code .
-```
-
-3. Open index.html in your browser to view the project
-
-## Project Structure
-
-```
-d-sparkle-solutions/
-├── assets/
-│   ├── images/
-│   ├── css/
-│   └── js/
-├── pages/
-├── components/
-└── docs/
-```
-
-## Contributing
-
-We welcome contributions from the community! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+2. Open `index.html` in your web browser
+3. Navigate through the website to explore our services
 
 ## Contact
 
-- Website: [www.dsparklesolutions.com](https://www.dsparklesolutions.com)
-- Email: contact@dsparklesolutions.com
-- LinkedIn: [D-Sparkle Solutions](https://linkedin.com/company/d-sparkle-solutions)
-- Twitter: [@DSparkleSol](https://twitter.com/DSparkleSol)
+For cleaning service inquiries:
 
-## Acknowledgments
+- Phone: +44 7776 722 059
+- Email: emailsample@email.com
+- Address: 203 Fake St. Mountain View, San Francisco, California, USA
 
-- Thanks to all our contributors
-- Special thanks to our clients for their trust and support
-- Inspired by the web development community
+## Business Hours
 
----
+- Monday – Friday: 9am to 8pm
+- Saturday: 9am to 5pm
+- Sunday: Closed
+- Holidays: Closed
 
-© 2024 D-Sparkle Solutions. All rights reserved.
+## License
+
+This website template is licensed under CC BY 3.0. Original template by Colorlib.

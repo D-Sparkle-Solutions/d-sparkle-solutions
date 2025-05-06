@@ -14,7 +14,7 @@ D-Sparkle Solutions is a premier cleaning service provider offering comprehensiv
 - Customer testimonials and portfolio
 - Contact forms for service inquiries
 - Interactive pricing plans
-- Social media integration
+- Social media integration (LinkedIn, Facebook, Twitter)
 
 ## Services Offered
 

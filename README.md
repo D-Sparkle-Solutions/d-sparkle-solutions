@@ -1,7 +1,6 @@
 # D-Sparkle Solutions - Professional Cleaning Services
 
-![D-Sparkle Solutions Logo](https://firebasestorage.googleapis.com/v0/b/coast-craft.appspot.
-com/o/logo.png?alt=media&token=23fbe83a-3cfe-4d41-b9b2-3081c03a0552)
+![D-Sparkle Solutions Logo](images/logo.png)
 
 ## Overview
 

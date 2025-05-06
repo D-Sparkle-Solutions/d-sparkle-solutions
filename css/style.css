@@ -11768,6 +11768,9 @@ textarea.form-control {
   z-index: 0;
   overflow: hidden;
 }
+.footer-mail{
+  margin-right: 1rem;
+}
 .footer a {
   color: #2b98f0;
 }
@@ -12578,6 +12581,7 @@ textarea.form-control {
 .sidelink li.active a span {
   color: #2b98f0;
 }
+
 
 #ftco-loader {
   position: fixed;

@@ -50,7 +50,7 @@ For cleaning service inquiries:
 
 - Phone: +44 7776 722 059
 - Email: emailsample@email.com
-- Address: 203 Fake St. Mountain View, San Francisco, California, USA
+- Address: 45 Kirkton Road, Cambuslang, Glasgow, G72 8LF, Scotland
 
 ## Business Hours
 
